@@ -110,7 +110,9 @@ class ObsceneCensorRus {
         'ебэ',
         'перв',
         'eep',
-        'dying'
+        'dying',
+        'launch',
+        'gaunt'
     );
 
     public static function getFiltered($text, $charset = 'UTF-8') {
